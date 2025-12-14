@@ -52,7 +52,8 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ### 8. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 rvaliev.dev@gmail.com
-Developer: Ruslan Valiev
+
+**Developer:** Ruslan Valiev
 
 ---
 
@@ -104,4 +105,5 @@ Developer: Ruslan Valiev
 ### 8. Связаться с нами
 Если у вас есть вопросы или предложения по поводу нашей Политики конфиденциальности, свяжитесь с нами по адресу:
 rvaliev.dev@gmail.com
-Developer: Ruslan Valiev
+
+**Developer:** Ruslan Valiev
