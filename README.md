@@ -7,9 +7,9 @@
 ## 🇬🇧 English Version
 
 ### Introduction
-This Privacy Policy describes how the **DrinkLess** application ("we", "us", or "our") collects, uses, and discloses information about you. This application is designed to help you track caffeine consumption and calculate safe sleep times based on your physiological parameters.
+This Privacy Policy describes how the **My coffee counter** application ("we", "us", or "our") collects, uses, and discloses information about you. This application is designed to help you track caffeine consumption and calculate safe sleep times based on your physiological parameters.
 
-**DrinkLess operates as an offline-first application.** We do not transmit your personal data to external servers.
+**My coffee counter operates as an offline-first application.** We do not transmit your personal data to external servers.
 
 ### 1. Information We Collect
 To provide the core functionality of the app (calculating caffeine metabolism and daily limits), we collect the following **User Data**:
@@ -41,7 +41,7 @@ The app requests the following permissions to function:
 The app **does not** request permissions for Internet access, Camera, Microphone, or Location.
 
 ### 5. Medical Disclaimer
-**DrinkLess is not a medical device.** The calculations provided (including caffeine half-life and safe limits) are estimates based on general statistical data and mathematical models. They should not be used as a substitute for professional medical advice. Always consult with a healthcare professional regarding your diet and sleep health.
+**My coffee counter is not a medical device.** The calculations provided (including caffeine half-life and safe limits) are estimates based on general statistical data and mathematical models. They should not be used as a substitute for professional medical advice. Always consult with a healthcare professional regarding your diet and sleep health.
 
 ### 6. Children's Privacy
 We do not knowingly collect personally identifiable information from children under 13. Since the app does not require account creation or internet access, we do not verify the age of users.
@@ -62,7 +62,7 @@ rvaliev.dev@gmail.com
 ### Введение
 Настоящая Политика конфиденциальности описывает, как приложение **DrinkLess** («мы» или «наше») собирает, использует и раскрывает информацию о вас. Это приложение разработано для отслеживания потребления кофеина и расчета безопасного времени отхода ко сну на основе ваших физиологических параметров.
 
-**DrinkLess работает полностью автономно (офлайн).** Мы не передаем ваши персональные данные на внешние серверы.
+**My coffee counter работает полностью автономно (офлайн).** Мы не передаем ваши персональные данные на внешние серверы.
 
 ### 1. Информация, которую мы собираем
 Для обеспечения основной функциональности приложения (расчет метаболизма кофеина и дневных лимитов) мы собираем следующие **Данные пользователя**:
@@ -94,7 +94,7 @@ rvaliev.dev@gmail.com
 Приложение **не запрашивает** доступ к Интернету, Камере, Микрофону или Геолокации.
 
 ### 5. Отказ от медицинской ответственности
-**Приложение DrinkLess не является медицинским устройством.** Предоставляемые расчеты (включая период полувыведения кофеина и безопасные лимиты) являются приблизительными оценками, основанными на общих статистических данных. Их нельзя использовать в качестве замены профессиональной медицинской консультации. Всегда консультируйтесь с врачом по вопросам вашей диеты и здоровья сна.
+**Приложение My coffee counter не является медицинским устройством.** Предоставляемые расчеты (включая период полувыведения кофеина и безопасные лимиты) являются приблизительными оценками, основанными на общих статистических данных. Их нельзя использовать в качестве замены профессиональной медицинской консультации. Всегда консультируйтесь с врачом по вопросам вашей диеты и здоровья сна.
 
 ### 6. Конфиденциальность детей
 Мы сознательно не собираем личную информацию от детей младше 13 лет. Поскольку приложение не требует создания учетной записи или доступа к интернету, мы не проверяем возраст пользователей.
