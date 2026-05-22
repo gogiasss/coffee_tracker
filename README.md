@@ -1,27 +1,27 @@
 # Privacy Policy / Политика конфиденциальности
 
-**Last updated / Последнее обновление:** December 14, 2025
+**Last updated / Последнее обновление:** May 22, 2026
 
 ---
 
 ## 🇬🇧 English Version
 
 ### Introduction
-This Privacy Policy describes how the **My coffee counter** application ("we", "us", or "our") collects, uses, and discloses information about you. This application is designed to help you track caffeine consumption and calculate safe sleep times based on your physiological parameters.
+This Privacy Policy describes how the **My caffeeine counter** application ("we", "us", or "our") collects, uses, and discloses information about you. This application is designed to help you track caffeine consumption and calculate safe sleep times based on your physiological parameters.
 
-**My coffee counter operates as an offline-first application.** We do not transmit your personal data to external servers.
+**My caffeeine counter operates as an offline-first application.** We do not transmit your personal data to external servers.
 
 ### 1. Information We Collect
 To provide the core functionality of the app (calculating caffeine metabolism and daily limits), we collect the following **User Data**:
 
 * **Physical Characteristics:** Weight, Age, and Gender.
-    * *Source:*
+
     * *Purpose:* This data is used solely to calculate your recommended daily caffeine limit and the half-life of caffeine in your body.
 * **Usage Data:** Logs of drinks consumed (type of drink, caffeine amount in mg, time of consumption) and custom drink definitions.
-    * *Source:*
+   
     * *Purpose:* To visualize your current caffeine level and provide "Sleep Gate" estimates.
 * **Settings:** Your preferred sleep time, caffeine sensitivity settings, and app preferences (e.g., AMOLED mode).
-    * *Source:*
+
 
 ### 2. How We Use Your Information
 All data processing happens locally on your device. We use your information to:
@@ -41,7 +41,7 @@ The app requests the following permissions to function:
 The app **does not** request permissions for Internet access, Camera, Microphone, or Location.
 
 ### 5. Medical Disclaimer
-**My coffee counter is not a medical device.** The calculations provided (including caffeine half-life and safe limits) are estimates based on general statistical data and mathematical models. They should not be used as a substitute for professional medical advice. Always consult with a healthcare professional regarding your diet and sleep health.
+**My caffeine counter is not a medical device.** The calculations provided (including caffeine half-life and safe limits) are estimates based on general statistical data and mathematical models. They should not be used as a substitute for professional medical advice. Always consult with a healthcare professional regarding your diet and sleep health.
 
 ### 6. Children's Privacy
 We do not knowingly collect personally identifiable information from children under 13. Since the app does not require account creation or internet access, we do not verify the age of users.
@@ -60,21 +60,18 @@ rvaliev.dev@gmail.com
 ## 🇷🇺 Русская версия
 
 ### Введение
-Настоящая Политика конфиденциальности описывает, как приложение **My coffee counter** («мы» или «наше») собирает, использует и раскрывает информацию о вас. Это приложение разработано для отслеживания потребления кофеина и расчета безопасного времени отхода ко сну на основе ваших физиологических параметров.
+Настоящая Политика конфиденциальности описывает, как приложение **My caffeeine counter** («мы» или «наше») собирает, использует и раскрывает информацию о вас. Это приложение разработано для отслеживания потребления кофеина и расчета безопасного времени отхода ко сну на основе ваших физиологических параметров.
 
-**My coffee counter работает полностью автономно (офлайн).** Мы не передаем ваши персональные данные на внешние серверы.
+**My caffeeine counter работает полностью автономно (офлайн).** Мы не передаем ваши персональные данные на внешние серверы.
 
 ### 1. Информация, которую мы собираем
 Для обеспечения основной функциональности приложения (расчет метаболизма кофеина и дневных лимитов) мы собираем следующие **Данные пользователя**:
 
 * **Физические характеристики:** Вес, Возраст и Пол.
-    * *Источник:*
     * *Цель:* Эти данные используются исключительно для математического расчета вашего рекомендуемого дневного лимита кофеина и периода его полувыведения из организма.
 * **Данные об использовании:** Журнал выпитых напитков (тип напитка, количество кофеина в мг, время употребления) и созданные вами пользовательские напитки.
-    * *Источник:*
     * *Цель:* Визуализация текущего уровня кофеина и расчет времени, когда можно безопасно уснуть.
 * **Настройки:** Ваше предпочтительное время сна, настройки чувствительности к кофеину и настройки интерфейса (например, AMOLED режим).
-    * *Источник:*
 
 ### 2. Как мы используем вашу информацию
 Вся обработка данных происходит локально на вашем устройстве. Мы используем информацию для:
@@ -94,7 +91,7 @@ rvaliev.dev@gmail.com
 Приложение **не запрашивает** доступ к Интернету, Камере, Микрофону или Геолокации.
 
 ### 5. Отказ от медицинской ответственности
-**Приложение My coffee counter не является медицинским устройством.** Предоставляемые расчеты (включая период полувыведения кофеина и безопасные лимиты) являются приблизительными оценками, основанными на общих статистических данных. Их нельзя использовать в качестве замены профессиональной медицинской консультации. Всегда консультируйтесь с врачом по вопросам вашей диеты и здоровья сна.
+**Приложение My caffeeine counter не является медицинским устройством.** Предоставляемые расчеты (включая период полувыведения кофеина и безопасные лимиты) являются приблизительными оценками, основанными на общих статистических данных. Их нельзя использовать в качестве замены профессиональной медицинской консультации. Всегда консультируйтесь с врачом по вопросам вашей диеты и здоровья сна.
 
 ### 6. Конфиденциальность детей
 Мы сознательно не собираем личную информацию от детей младше 13 лет. Поскольку приложение не требует создания учетной записи или доступа к интернету, мы не проверяем возраст пользователей.
